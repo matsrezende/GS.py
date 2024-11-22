@@ -27,7 +27,8 @@ Identificação do Problema: Os veículos elétricos têm ganhado destaque como 
 # Solução Proposta: 
 O sistema desenvolvido visa monitorar o consumo de energia dos veículos elétricos, calcular o impacto das viagens e otimizar o consumo com base em condições pré-definidas (como a distância percorrida). O sistema simula viagens, registra o consumo energético e otimiza o uso de energia quando o veículo alcança uma certa distância. O usuário pode visualizar dados detalhados e salvar o histórico de consumo em um arquivo para análise posterior.
 
-Demonstração da Solução:
+# Demonstração da Solução:
+ 
  1 Identificação do Problema: O consumo energético dos veículos será monitorado e otimizado.
  
  2 Solução Proposta: O programa permite simular viagens, visualizar os consumos, otimizar o uso de energia e salvar os dados em arquivos.
