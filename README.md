@@ -1,5 +1,5 @@
-# GS.py
-Aqui está meu desenvolvimento em Python para a GS Energy Green para FIAP 
+# GlobalSolution.py
+O projeto em Python simula o consumo de energia de veículos elétricos, calcula distâncias percorridas e otimiza o consumo quando a distância ultrapassa 100 km. Além disso, grava dados em arquivo e oferece um menu interativo para simulação, visualização e otimização do consumo, visando uma mobilidade mais eficiente.
 
 # Explicação do Código:
 Veículos e Consumo de Energia:
